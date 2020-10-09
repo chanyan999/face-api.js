@@ -34,29 +34,29 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@tensorflow/tfjs-core": "2.3.0",
-    "tslib": "^2.0.1"
+    "@tensorflow/tfjs-core": "2.6.0",
+    "tslib": "^2.0.2"
   },
   "deprecated": false,
   "description": "JavaScript API for face detection and face recognition in the browser with tensorflow.js",
   "devDependencies": {
-    "@tensorflow/tfjs-node": "2.3.0",
-    "@types/jasmine": "^3.5.12",
-    "@types/node": "^14.0.27",
+    "@tensorflow/tfjs-node": "2.6.0",
+    "@types/jasmine": "^3.5.14",
+    "@types/node": "^14.11.8",
     "canvas": "2.6.1",
     "jasmine": "^3.6.1",
     "jasmine-core": "^3.6.0",
-    "karma": "^5.1.1",
+    "karma": "^5.2.3",
     "karma-chrome-launcher": "^3.1.0",
     "karma-jasmine": "^4.0.1",
-    "karma-typescript": "^5.1.0",
-    "rollup": "^2.26.2",
+    "karma-typescript": "^5.2.0",
+    "rollup": "^2.29.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-typescript2": "^0.27.2",
+    "rollup-plugin-typescript2": "^0.27.3",
     "rollup-plugin-uglify": "^6.0.4",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.7"
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
   },
   "keywords": [
     "face",
