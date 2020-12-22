@@ -34,7 +34,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@tensorflow/tfjs-core": "2.7.0",
+    "@tensorflow/tfjs-core": "2.8.1",
     "tslib": "^2.0.2"
   },
   "deprecated": false,
